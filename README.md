@@ -1,4 +1,4 @@
-# Robot-Arm
+# Robot Arm
 
 ## The 3D Model
 
