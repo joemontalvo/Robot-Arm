@@ -1,2 +1,4 @@
 # Robot-Arm
-![Shiny Duup-Bojo](https://user-images.githubusercontent.com/98854432/206559472-408b52eb-662e-46b7-9128-2cd65acdaf0a.png)
+
+### Breadboard Schematic
+![Breadboard Diagram](https://user-images.githubusercontent.com/98854432/206560023-63e8ba6e-ce1a-48dd-8d55-10a2c008e15a.png)
